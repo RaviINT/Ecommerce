@@ -1,0 +1,13 @@
+.container{
+    width: 100%;
+    height: 100vh;
+}
+.product_list{
+    display: flex;
+}
+.left_box{
+    width: 15%;
+}
+.right_box{
+    width: 85%;
+}
